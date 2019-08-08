@@ -1,0 +1,18 @@
+E:\projrct\collegemanegement\collegemanegement\bin\collegemanegement.dll
+E:\projrct\collegemanegement\collegemanegement\bin\collegemanegement.pdb
+E:\projrct\collegemanegement\collegemanegement\obj\Debug\collegemanegement.csprojResolveAssemblyReference.cache
+E:\projrct\collegemanegement\collegemanegement\obj\Debug\collegemanegement.dll
+E:\projrct\collegemanegement\collegemanegement\obj\Debug\collegemanegement.pdb
+E:\projrct\collegemanegement\collegemanegement\obj\Debug\collegemanegement.dll.licenses
+C:\Users\dell pc\Desktop\College Management\collegemanegement\collegemanegement\bin\collegemanegement.dll
+C:\Users\dell pc\Desktop\College Management\collegemanegement\collegemanegement\bin\collegemanegement.pdb
+C:\Users\dell pc\Desktop\College Management\collegemanegement\collegemanegement\obj\Debug\collegemanegement.csprojResolveAssemblyReference.cache
+C:\Users\dell pc\Desktop\College Management\collegemanegement\collegemanegement\obj\Debug\collegemanegement.dll.licenses
+C:\Users\dell pc\Desktop\College Management\collegemanegement\collegemanegement\obj\Debug\collegemanegement.dll
+C:\Users\dell pc\Desktop\College Management\collegemanegement\collegemanegement\obj\Debug\collegemanegement.pdb
+J:\sachin backup\c\desktop\College Management\collegemanegement\collegemanegement\bin\collegemanegement.dll
+J:\sachin backup\c\desktop\College Management\collegemanegement\collegemanegement\bin\collegemanegement.pdb
+J:\sachin backup\c\desktop\College Management\collegemanegement\collegemanegement\obj\Debug\collegemanegement.csprojResolveAssemblyReference.cache
+J:\sachin backup\c\desktop\College Management\collegemanegement\collegemanegement\obj\Debug\collegemanegement.dll.licenses
+J:\sachin backup\c\desktop\College Management\collegemanegement\collegemanegement\obj\Debug\collegemanegement.dll
+J:\sachin backup\c\desktop\College Management\collegemanegement\collegemanegement\obj\Debug\collegemanegement.pdb
